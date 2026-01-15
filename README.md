@@ -1,4 +1,6 @@
-# My home server setup
+# My home Server (Homelab)
+A small, low-power home server built from ewaste hardware.
+This repo documents my setup and decisions.
 ## Hardware
 ewaste Toshiba SATELLITE C50-B laptop i bought for 25 euro
 
